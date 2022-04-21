@@ -24,5 +24,6 @@ body{
     width: 70%;
 }
 .sobre-mim{  /*alteração do texto*/
+    font-weight: bold;
     display: flex;
 }
